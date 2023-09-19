@@ -40,7 +40,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
- ![]()
+ ![](https://github.com/Engineering_4_Notebook/My_Project.gif)
 
 ### Wiring
 
