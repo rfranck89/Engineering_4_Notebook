@@ -35,12 +35,12 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 ### Description
 
-Normal: Write code that prints numbers that count down from ten, one every second, and print 'Liftoff!' when the number reaches zero.
+Normal: Make an accelerometer print x, y, and z acceleration.
 Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+ ![]()
 
 ### Wiring
 
