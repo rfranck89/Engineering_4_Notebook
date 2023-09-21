@@ -12,6 +12,7 @@
 ### Description
 
 Normal: Write code that prints numbers that count down from ten, one every second, and print 'Liftoff!' when the number reaches zero.
+
 Spicy: There is no spicy version of this assignment
 
 ### Evidence 
@@ -27,7 +28,7 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was very easy.
 
 &nbsp;
 
