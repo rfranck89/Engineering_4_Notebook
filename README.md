@@ -3,16 +3,17 @@
 &nbsp;
 
 ## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
+* [Launchpad_1](#Launchpad_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
+## Launchpad_1
 
-## Raspberry_Pi_Assignment_Template
+### Description
 
-### Assignment Description
+Normal: Write code that prints numbers that count down from ten, one every second, and print 'Liftoff!' when the number reaches zero.
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
@@ -27,10 +28,33 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was very easy.
 
 &nbsp;
 
+## Crash_Avoidance_1
+
+### Description
+
+Normal: Make an accelerometer print x, y, and z acceleration.
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+ ![](https://github.com/Engineering_4_Notebook/My_Project.gif)
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+
+### Code
+Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+
+&nbsp;
 ## Onshape_Assignment_Template
 
 ### Assignment Description
