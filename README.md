@@ -17,7 +17,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+[](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/Countdown1.gif)
 
 ### Wiring
 
