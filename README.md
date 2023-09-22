@@ -24,7 +24,7 @@ Spicy: There is no spicy version of this assignment
 There was no wiring for this assignment, just code.
 
 ### Code
-Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py).
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py)
 ### Reflection
 
 I didn't really learn anything from this assignment. The instructions on canvas tell you how to code almost the whole thing, and I already knew how for loops worked.
@@ -40,8 +40,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
- ![gif]([https://github.com/Engineering_4_Notebook/My_Project.gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/My%20Project.gif))
-
+ ![gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/My%20Project.gif)
 ### Wiring
 
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
