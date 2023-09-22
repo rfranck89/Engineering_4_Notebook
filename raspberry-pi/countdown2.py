@@ -11,10 +11,10 @@ green = digitalio.DigitalInOut(board.GP16) #Same thing as line 6, but with pin 1
 green.direction = digitalio.Direction.OUTPUT
 for x in range(11):
     if x<10:
+        print(10-x)
         red.value = False #Turns off the red LED
         green.value = False #Turns off the green LED
         time.sleep(.9) 
-        print(10-x)
         red.value = True #Turns on the red LED for
         time.sleep(.1)   #.1 second
     else:
