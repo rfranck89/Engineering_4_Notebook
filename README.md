@@ -40,7 +40,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
- ![gif](https://github.com/Engineering_4_Notebook/My_Project.gif)
+ ![gif]([https://github.com/Engineering_4_Notebook/My_Project.gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/My%20Project.gif))
 
 ### Wiring
 
