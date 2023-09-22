@@ -17,18 +17,17 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/Countdown1.gif)
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+There was no wiring for this assignment, just code.
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
-
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py)
 ### Reflection
 
-This assignment was very easy.
+I didn't really learn anything from this assignment. The instructions on canvas tell you how to code almost the whole thing, and I already knew how for loops worked.
 
 &nbsp;
 
@@ -41,11 +40,10 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
- ![](https://github.com/Engineering_4_Notebook/My_Project.gif)
-
+ ![gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/My%20Project.gif)
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/WIN_20230922_13_38_02_Pro.jpg)
 
 ### Code
 Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
