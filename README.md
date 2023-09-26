@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Launchpad_1](#Launchpad_1)
+* [Crash_Avoidance_1](#Crash_Avoidance_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -46,11 +47,12 @@ Spicy: There is no spicy version of this assignment
 ![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/WIN_20230922_13_38_02_Pro.jpg)
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Crash_Avoidance1.py).
+
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was pretty easy for both code and wiring, because the canvas module says how to wire the accelerometer and how to print the values. This assignment taught me that wevideo has a delay before it records the window you select, which will help me record better videos.
 
 &nbsp;
 ## Onshape_Assignment_Template
