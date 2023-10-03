@@ -77,7 +77,7 @@ the document can be found [here](https://cvilleschools.onshape.com/documents/a0e
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+there were only two challenging parts on this assignment, making it weigh less than 13 grams and making it not have overhangs.
 
 &nbsp;
 
