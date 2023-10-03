@@ -73,7 +73,7 @@ the document can be found [here](https://cvilleschools.onshape.com/documents/a0e
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/vertcal%20verson%20(1).png) 
 
 ### Reflection
 
