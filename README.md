@@ -55,15 +55,21 @@ Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blo
 This assignment was pretty easy for both code and wiring, because the canvas module says how to wire the accelerometer and how to print the values. This assignment taught me that wevideo has a delay before it records the window you select, which will help me record better videos.
 
 &nbsp;
-## Onshape_Assignment_Template
+## Beam Assignment
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Create a beam in onshape that can hold a weight without breaking or bending more than 35 mm.
+The beam must follow the following criteria:
+ - weigh less than 13 grams including the attachment block.
+ - no vertical angles less than 45 degrees are allowed.
+ - the center of the hole used to hold the weight must be 180 mm away from the edge of the attachment block.
+ - the attachment block must be able to fit into the holder with the beam.
+ - the beam must use the hole given in the assignment
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+the document can be found [here](https://cvilleschools.onshape.com/documents/a0ee0fd238045dedbffc5568/w/546caeaada3c8b4c237ca2cc/e/3282756a5f5731191b2b56af)
 
 ### Part Image
 
