@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Launchpad_1](#Launchpad_1)
+* [Launchpad_2](#Launchpad_2)
 * [Crash_Avoidance_1](#Crash_Avoidance_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -29,6 +30,30 @@ Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blo
 ### Reflection
 
 I didn't really learn anything from this assignment. The instructions on canvas tell you how to code almost the whole thing, and I already knew how for loops worked.
+
+&nbsp;
+
+## Launchpad_2
+
+### Description
+
+Normal: make a red LED blink once every second during the countdown, then when the timer reaches zero turn on a green LED.
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+gif goes here eventually
+
+### Wiring
+
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/WIN_20230922_13_25_36_Pro.jpg)
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown2.py)
+### Reflection
+
+This assignment taught me how to wire and code an LED, and also what the difference between input and output is.
 
 &nbsp;
 
