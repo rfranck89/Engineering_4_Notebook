@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Launchpad_1](#Launchpad_1)
+* [Launchpad_2](#Launchpad_2)
 * [Crash_Avoidance_1](#Crash_Avoidance_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
@@ -32,6 +33,30 @@ I didn't really learn anything from this assignment. The instructions on canvas 
 
 &nbsp;
 
+## Launchpad_2
+
+### Description
+
+Normal: make a red LED blink once every second during the countdown, then when the timer reaches zero turn on a green LED.
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+gif goes here eventually
+
+### Wiring
+
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/WIN_20230922_13_25_36_Pro.jpg)
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown2.py)
+### Reflection
+
+This assignment taught me how to wire and code an LED, and also what the difference between input and output is.
+
+&nbsp;
+
 ## Crash_Avoidance_1
 
 ### Description
@@ -55,23 +80,29 @@ Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blo
 This assignment was pretty easy for both code and wiring, because the canvas module says how to wire the accelerometer and how to print the values. This assignment taught me that wevideo has a delay before it records the window you select, which will help me record better videos.
 
 &nbsp;
-## Onshape_Assignment_Template
+## Beam Assignment
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+Create a beam in onshape that can hold a weight without breaking or bending more than 35 mm.
+The beam must follow the following criteria:
+ - weigh less than 13 grams including the attachment block.
+ - no vertical angles less than 45 degrees are allowed.
+ - the center of the hole used to hold the weight must be 180 mm away from the edge of the attachment block.
+ - the attachment block must be able to fit into the holder with the beam.
+ - the beam must use the hole given in the assignment
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+the document can be found [here](https://cvilleschools.onshape.com/documents/a0ee0fd238045dedbffc5568/w/546caeaada3c8b4c237ca2cc/e/3282756a5f5731191b2b56af)
 
 ### Part Image
 
-Take a nice screenshot of your Onshape document. 
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/vertcal%20verson%20(1).png) 
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+there were only two challenging parts on this assignment, making it weigh less than 13 grams and making it not have overhangs.
 
 &nbsp;
 
