@@ -57,6 +57,30 @@ This assignment taught me how to wire and code an LED, and also what the differe
 
 &nbsp;
 
+## Launchpad_3
+
+### Description
+
+Normal: make the countdown only start when a button is pressed.
+
+Spicy: if the button is pressed during the countdown, print ABORT and stop the countdown.
+
+### Evidence 
+
+gif goes here
+
+### Wiring
+
+There was no wiring for this assignment, just code.
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py)
+### Reflection
+
+I didn't really learn anything from this assignment. The instructions on canvas tell you how to code almost the whole thing, and I already knew how for loops worked.
+
+&nbsp;
+
 ## Crash_Avoidance_1
 
 ### Description
