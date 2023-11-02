@@ -1,0 +1,23 @@
+import time
+def makeTriangle():
+    print('Input coordinates for the first point.')
+    point1 = input()
+    point1XY = point1.split(", ", 1)
+    time.sleep(.5)
+    print('Input coordinates for the second point.')
+    point2 = input()
+    point2XY = point2.split(", ", 1)
+    time.sleep(.5)
+    print('Input coordinates for the third point.')
+    point3 = input()
+    point3XY = point3.split(", ", 1)
+    time.sleep(.5)
+    try:
+        area = (1/2)*(int(point1XY[0])*(int(point2XY[1]) - int(point3XY[1])) + int(point2XY[0])*(int(point3XY[1]) - int(point1XY[1])) + int(point3XY[0])*(int(point1XY[1]) - int(point2XY[1])))
+        if area < 0:
+            area = area*-1
+        print(f"The area of a triangle with vertices ({point1}), ({point2}), ({point3}) is {area} square km")
+    except:
+        print("Coordinates have to be numbers only in the format X, Y")
+while True:
+    makeTriangle()
