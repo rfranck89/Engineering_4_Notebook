@@ -5,7 +5,10 @@
 ## Table of Contents
 * [Launchpad_1](#Launchpad_1)
 * [Launchpad_2](#Launchpad_2)
+* [Launchpad_3](#Launchpad_3)
+* [Launchpad_4](#Launchpad_4)
 * [Crash_Avoidance_1](#Crash_Avoidance_1)
+* [Landing_Area_1](#Landing_Area_1)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
@@ -71,13 +74,35 @@ gif goes here
 
 ### Wiring
 
-There was no wiring for this assignment, just code.
 
 ### Code
-Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown.py)
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown3.py)
 ### Reflection
 
-I didn't really learn anything from this assignment. The instructions on canvas tell you how to code almost the whole thing, and I already knew how for loops worked.
+this assignment taught me how to wire and code a button, and the spicy version taught me how to use variables for things other than counting.
+
+&nbsp;
+
+## Launchpad_4
+
+### Description
+
+Normal: when the countdown reaches liftoff, make a servo rotate 180 degrees.
+
+Spicy: start the servos motion when the countdown reaches 3, and complete the 180 degreee rotation at liftoff
+
+### Evidence 
+
+gif goes here
+
+### Wiring
+
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/countdown4.py)
+### Reflection
+
+this assignment taught me how to wire and code a button, and the spicy version taught me how to use variables for things other than counting.
 
 &nbsp;
 
@@ -104,6 +129,58 @@ Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blo
 This assignment was pretty easy for both code and wiring, because the canvas module says how to wire the accelerometer and how to print the values. This assignment taught me that wevideo has a delay before it records the window you select, which will help me record better videos.
 
 &nbsp;
+
+
+## Landing_Area_1
+
+### Description
+
+Normal: write code that takes three user inputted coordinates, then prints the area of the triangle created by those coordinates
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/landing%20area.gif)
+
+### Wiring
+
+There was no wiring for this assignment, just code.
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area1)
+### Reflection
+
+this assignment was mostly about math, so I learned a lot about math on vscode. for example, the '^' does not function as an exponent, '**' does. 
+the code also doesn't work if you do numbers with decimals, which is probably because the code thinks that the period is not a number.
+
+&nbsp;
+
+## Landing_Area_2
+
+### Description
+
+Normal: write code that takes three user inputted coordinates, then prints the area of the triangle created by those coordinates
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/landing%20area.gif)
+
+### Wiring
+
+There was no wiring for this assignment, just code.
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area1)
+### Reflection
+
+this assignment was mostly about math, so I learned a lot about math on vscode. for example, the '^' does not function as an exponent, '**' does. 
+the code also doesn't work if you do numbers with decimals, which is probably because the code thinks that the period is not a number.
+
+&nbsp;
+
 ## Beam Assignment
 
 ### Assignment Description
@@ -129,13 +206,3 @@ the document can be found [here](https://cvilleschools.onshape.com/documents/a0e
 there were only two challenging parts on this assignment, making it weigh less than 13 grams and making it not have overhangs.
 
 &nbsp;
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-
-### Test Image
-
-### Test GIF
