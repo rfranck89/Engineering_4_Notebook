@@ -166,7 +166,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
-![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/landing%20area.gif)
+![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/Landing%20Area%202.gif)
 
 ### Wiring
 
