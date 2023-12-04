@@ -47,7 +47,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Evidence 
 
-gif goes here eventually
+![Gif](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/Countdown%202.gif)
 
 ### Wiring
 
