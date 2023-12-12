@@ -171,7 +171,7 @@ Spicy: There is no spicy version of this assignment
 
 ### Wiring
 
-There was no wiring for this assignment, just code.
+![image](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/images/Landing_area_2.png)
 
 ### Code
 Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Landing_Area1)
