@@ -10,6 +10,8 @@
 * [Crash_Avoidance_1](#Crash_Avoidance_1)
 * [Landing_Area_1](#Landing_Area_1)
 * [Landing_Area_2](#Landing_Area_2)
+* [Morse_Code_1](#Morse_Code_1)
+* [Morse_Code_2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
