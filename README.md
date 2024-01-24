@@ -182,6 +182,54 @@ the code also doesn't work if you do numbers with decimals, which is probably be
 
 &nbsp;
 
+## Morse_Code_1
+
+### Description
+
+Normal: write code that takes a user inputted sentence and changes it into morse code
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+
+### Wiring
+
+no wiring
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Morse_Code1)
+
+### Reflection
+
+this assignment taught me how to use dictionaries and add stuff onto a print(). aside from that, nothing special happened.
+
+&nbsp;
+
+## Morse_Code_2
+
+### Description
+
+Normal: same as morse code 1, but this time make an LED blink out the message in morse code
+
+Spicy: There is no spicy version of this assignment
+
+### Evidence 
+
+
+### Wiring
+
+same as launchpad 2 but with only one LED
+
+### Code
+Code can be found [here](https://github.com/rfranck89/Engineering_4_Notebook/blob/main/raspberry-pi/Morse_Code2)
+
+### Reflection
+
+this assignment taught me how to read through a message and output a different signal depending on what was read
+
+&nbsp;
+
 ## Beam Assignment
 
 ### Assignment Description
